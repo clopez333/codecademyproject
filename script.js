@@ -10,7 +10,7 @@ let randomMsg = Math.floor(Math.random() * messages.length);
 let randomNum = Math.floor(Math.random() * numbers.length);
 
 //outputs the random end result to the console 
-let output = []; output.push('Your motivational quote is: ' + messages[randomMsg] + ' and your number is: ' + numbers[randomNum]); 
+let output = []; output.push('Your motivational quote is: " + messages[randomMsg] + " and your number is: ' + numbers[randomNum]); 
 return output };
 
 console.log(Randomize());
