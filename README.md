@@ -1,5 +1,5 @@
-This is a codeCademy project in which I had to build a simple message generator that generates a random sentence everytime the user runs the program.
+This is a codeCademy project in which I had to build a simple message generator that generates a random motivational quote and numbers everytime the user runs the program.
 
-#Support researched using google and got some minor assistance from stackOverflow.
+Researched using google and got some help from codeCademy forums.
 
-#Langauge Built using javascript.
+Built using javascript.
