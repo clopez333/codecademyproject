@@ -1,7 +1,7 @@
 const Randomize = () => { 
 // messages and numbers
-let messages = ['Success is a lousy teacher. It seduces smart people into thinking they can't succeed - Bill Gates', 
-'Your time is limited, so don't waste it living someone else's life- Steve Jobs', 
+let messages = ['Success is a lousy teacher. It seduces smart people into thinking they can/'t succeed - Bill Gates', 
+'Your time is limited, so don't waste it living someone else/'s life- Steve Jobs', 
 'Be humble in victory or defeat- Conor McGregor', 'I like criticism. It makes me stronger- LeBron James', ]; 
 let numbers = [1,2,3,4,5,6,7,8,9];
 
